@@ -26,3 +26,4 @@ I am a UI/UX Developer and Cyber Security Freak <img src="https://media.giphy.co
   <p><strong>Heaven for the Gen Z<br>F O O T C A P</strong></p><br>
   <a href="https://amanraghuvanshi.github.io/footwears.github.io/" target="_blank"><strong>⏩ 𝕃𝕚𝕧𝕖 𝔻𝕖𝕞𝕠🍩</strong></a><br><br><br>
 </div>
+
